@@ -1,0 +1,8 @@
+{
+  "name": "apnaApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "53c138ff"
+}
